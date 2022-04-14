@@ -1,2 +1,2 @@
-# cancer-classification
-Classifying breast cancer using feed neural network.
+# Breast Cancer Prediction using Feedforward Neural Network
+
