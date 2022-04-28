@@ -18,3 +18,7 @@ The model is trained using 100 epochs with a batch size of 32. An early stopping
 From the results obtained, the model has an accuracy of 95% with a loss of only 0.1. This shows that the model is well trained and has the best accuracy to predict whether the tumour is malignant or benign.
 
 <img width="1045" alt="Screenshot 2022-04-29 at 00 25 21" src="https://user-images.githubusercontent.com/58509210/165799705-ac603b41-113f-46e2-a33d-4f87db5d2b9a.png">
+
+From this prediction analysis, only 4 predictions are incorrect while the rest are correct. This shows that our model is extremely well trained. 
+
+<img width="367" alt="Screenshot 2022-04-29 at 00 27 48" src="https://user-images.githubusercontent.com/58509210/165800402-149f866d-6731-43b8-b913-a437da9f8ea9.png">
